@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py probot_g750 manipulator probot_g750_ikfast_manipulator_plugin /home/hcx/probot_ws/src/probot_6axis_ros/packages/ros_driver/probot_g750_ikfast_manipulator_plugin/src/probot_g750_manipulator_ikfast_solver.cpp
